@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/Mrhafizh21/Botwasapv1
-> cd Botwasapv1
+> git clone https://github.com/Mrhafizh21/Botwasapv2
+> cd Botwasapv2
 > npm install
 ```
 ###### Run
@@ -21,7 +21,7 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Mrhafizh21/Botwasapv1
+> git clone https://github.com/Mrhafizh21/Botwasapv2
 > cd Botwasapv1
 > npm install
 ```
